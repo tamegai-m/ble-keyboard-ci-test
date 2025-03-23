@@ -16,5 +16,5 @@ jobs:
       run: pip install platformio
 
     - name: Build with verbose output
-      run: platformio run -v
+      run: platformio run
 
